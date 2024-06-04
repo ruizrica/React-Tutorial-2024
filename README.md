@@ -57,8 +57,7 @@ export default App;
 ```
 
 ## Functional Components
-Class components are ES6 classes that extend the React Component. 
-They can maintain and manage local state and have access to lifecycle methods, making them more feature-rich than functional components.
+Functional components in React are simpler and typically used for components that only depend on the input properties and do not need to manage state or lifecycle methods. They are defined using a JavaScript function or arrow function that returns a React element.
 ```
 import React from 'react';
 
