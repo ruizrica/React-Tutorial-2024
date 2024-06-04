@@ -1,5 +1,5 @@
 <div  align= "center">
-<h3><code>Welcome to React-Tutorial-2024</code>  Your newest learning tool
+<h3><code>Welcome to React-Tutorial-2024</code> 
 </div> 
 
 # 📋 Index
