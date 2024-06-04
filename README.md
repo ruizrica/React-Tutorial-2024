@@ -128,7 +128,7 @@ export default StateExample;
 
 
 ## Lifecycle Methods
-Lifecycle methods são métodos especiais em componentes de classe que são invocados em diferentes fases do ciclo de vida de um componente. componentDidMount é um método de ciclo de vida comummente utilizado, executado depois de um componente ser renderizado no DOM.
+Lifecycle methods are special methods in class components that are invoked at different phases of a component's lifecycle. componentDidMount is a commonly used lifecycle method, executed after a component is rendered in the DOM.
 ```
 import React, { Component } from 'react';
 
